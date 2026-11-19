@@ -83,7 +83,7 @@ The menu features a sleek, dark-themed UI with categorized tabs and collapsible 
 - **[LGL](https://github.com/LGLTeam)** - Mod Menu Template (Floating UI)
 - **AndKittyInjector** - Android Injection Framework
 - **Dobby & KittyMemory** - Memory Hooking and Patching
-- **AMD Gamer YT** - Development and Maintenance
+- **AMDGamerYT** - Development and Maintenance
 
 ---
 *If you enjoy this project, don't forget to Star ⭐ this repository and Subscribe to [AMD Gamer YT](https://youtube.com/@amdgameryt)!*
