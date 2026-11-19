@@ -23,14 +23,14 @@ Check out **[AMDGamerYT](https://youtube.com/@amdgameryt)** for installation gui
 The menu features a sleek, dark-themed UI with categorized tabs and collapsible drop-down menus for easy navigation.
 
 ### 👤 Player
-- **God Mode** (Invincibility)
-- **Never Wanted** (Clear Wanted Level)
-- **Never Tired** (Infinite Stamina)
+- **God Mode**
+- **Never Wanted**
+- **Never Tired**
 - **Freeze Mission Timer**
 - **Max Armor**
-- **Add Health** (Also repairs current vehicle)
-- **Money + Armor + Health** (One-click cheat)
-- Add/Set Money (Custom Input)
+- **Add Health**
+- **Money + Armor + Health**
+- **Add/Set Money**
 
 ### 🔫 Weapons
 - Weapon Set 1, 2, 3, 4
