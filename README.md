@@ -10,6 +10,18 @@ Built using a robust C++ core for memory manipulation (Dobby/KittyMemory) and a 
 
 ---
 
+## ⚠️ Supported Version (READ FIRST)
+
+This mod menu is **STRICTLY** built for the **Rockstar Games** version of GTA: San Andreas - Definitive Edition. 
+
+- ✅ **Supported Game Version:** `1.87.0`
+- ✅ **Supported Package Name:** `com.rockstargames.gtasa.de`
+- ❌ **NOT Supported:** The Netflix version (`com.netflix.NGP.GTASanAndreas`) or any other regional variants. 
+
+*Using this menu on unsupported versions will result in the injection failing or the game crashing.*
+
+---
+
 ## 📺 Watch Tutorials & Gameplay
 
 [![YouTube Channel](https://img.shields.io/badge/YouTube-Subscribe_Now-red?style=for-the-badge&logo=youtube)](https://youtube.com/@amdgameryt)
@@ -66,7 +78,7 @@ The menu features a sleek, dark-themed UI with categorized tabs and collapsible 
 2. Download the latest `ModMenu.apk` and install it.
 3. Grant **Overlay Permission** and **Root Permission** to the app.
 4. Open the app, tap **"Start"** to launch the floating icon.
-5. Open **GTA: San Andreas**, tap the floating icon to open the menu, and press **"Start"** inside the menu to inject.
+5. Open GTA: San Andreas (Rockstar Version `1.87.0`), tap the floating icon to open the menu, and press **"Start"** inside the menu to inject.
 6. Once injected, the tabs will appear, and you can toggle your cheats.
 
 ---
