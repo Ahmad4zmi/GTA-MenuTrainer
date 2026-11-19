@@ -98,4 +98,4 @@ The menu features a sleek, dark-themed UI with categorized tabs and collapsible 
 - **AMDGamerYT** - Development and Maintenance
 
 ---
-*If you enjoy this project, don't forget to Star ⭐ this repository and Subscribe to [AMD Gamer YT](https://youtube.com/@amdgameryt)!*
+*If you enjoy this project, don't forget to Star ⭐ this repository and Subscribe to [AMDGamerYT](https://youtube.com/@amdgameryt)!*
