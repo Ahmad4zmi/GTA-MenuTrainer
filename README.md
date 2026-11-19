@@ -14,7 +14,7 @@ Built using a robust C++ core for memory manipulation (Dobby/KittyMemory) and a 
 
 [![YouTube Channel](https://img.shields.io/badge/YouTube-Subscribe_Now-red?style=for-the-badge&logo=youtube)](https://youtube.com/@amdgameryt)
 
-Check out **[AMD Gamer YT](https://youtube.com/@amdgameryt)** for installation guides, gameplay showcases, and future updates!
+Check out **[AMDGamerYT](https://youtube.com/@amdgameryt)** for installation guides, gameplay showcases, and future updates!
 
 ---
 
